@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HannahTet
-- 👀 I’m interested in python programming.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning cs50p.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
