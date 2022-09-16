@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning cs50p and cs50.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - you can find me in LinkedIn.
 
 <!---
 HannahTet/HannahTet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
