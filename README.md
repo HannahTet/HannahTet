@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HannahTet
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning cs50p.
+- 🌱 I’m currently learning cs50p and cs50.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
