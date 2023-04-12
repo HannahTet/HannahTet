@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HannahTet
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning cs50p and cs50.
+- 👀 I’m interested in Software Testing and programming.
+- 🌱 I’m currently learning QA manual and automated  SW testing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - you can find me in LinkedIn.
 
