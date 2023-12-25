@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HannahTet
-- 👀 I’m interested in Software Testing and programming.
-- 🌱 I’m currently learning QA manual and automated  SW testing.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software manual and automated Testing (I have ISTQB Fundamental Level Certificate) and programming.
+- 🌱 I’m currently learning Linux CLI and Mobile Testing.
 - 📫 How to reach me - you can find me in LinkedIn.
 
 <!---
